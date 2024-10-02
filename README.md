@@ -1,0 +1,1 @@
+# plugins-fs-poster-lite
